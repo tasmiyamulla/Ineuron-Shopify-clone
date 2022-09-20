@@ -2,7 +2,7 @@
 
 _by Tasmiya 💗_
 
-### 🔗*Live Link* -: [Shopify Clone]()
+### 🔗*Live Link* -: [Shopify Clone](https://tasmiya-shopify-clone.netlify.app)
 
 ![Shopify Clone](shopify-clone.png)
 
